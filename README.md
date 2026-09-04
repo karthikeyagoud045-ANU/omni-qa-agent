@@ -8,8 +8,8 @@
     <a href="#-quick-start-30-seconds-to-running"><img src="https://img.shields.io/badge/Quick%20Start-30s-black?style=for-the-badge&logo=rocket" alt="Quick Start" /></a>
     <img src="https://img.shields.io/badge/Token%20Cost-~$0.02%2Faudit-10b981?style=for-the-badge" alt="Token Cost" />
     <img src="https://img.shields.io/badge/Hackathon-HackWave%203.0-8b5cf6?style=for-the-badge" alt="Hackathon" />
-    <img src="https://img.shields.io/badge/Featherless.ai-Sponsor%20Track-3b82f6?style=for-the-badge" alt="Sponsor" />
-    <img src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge" alt="License" />
+    
+    
   </p>
 </p>
 
