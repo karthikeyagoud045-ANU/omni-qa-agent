@@ -215,11 +215,7 @@ Visit **`http://localhost:5173`** to begin your first autonomous QA audit!
   <img src="docs/screenshot-dashboard.png" width="48%" alt="OmniQA Dashboard" style="border-radius: 6px;" />
 </p>
 
-<p align="center">
-  <img src="docs/screenshot-report.png" width="80%" alt="OmniQA Bug Report View" style="border-radius: 6px;" />
-</p>
 
----
 
 ## 🗺️ Roadmap
 
