@@ -65,7 +65,7 @@ flowchart TD
 
 ## 🚀 How To Use It Locally (Clone → Run → Audit)
 
-**Prerequisites:** Python 3.11+, Node 18+, a free [Supabase](https://supabase.com) account, a [Featherless.ai](https://featherless.ai) API key.
+**Prerequisites:** Python 3.11+, JS, Node 18+, a free [Supabase](https://supabase.com) account, a [Featherless.ai](https://featherless.ai) API key.
 
 ```bash
 # 1) Clone
