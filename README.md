@@ -1,4 +1,4 @@
-# Omni-QA Agent — HackWave 3.0 Winner
+# Omni-QA Agent 
 
 > Autonomous QA agent that tests any URL like a human — watches a live browser, reads console errors for free, and exports a GitHub-ready bug report in one click. **No Docker. No LangChain. No PAT.**
 
