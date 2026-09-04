@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+playwright
+openai
+supabase
+python-dotenv
+sse-starlette
+pydantic
