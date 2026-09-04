@@ -32,7 +32,7 @@ That's it. The AI **understands the issue, opens a real visible browser, and tri
 ```mermaid
 flowchart TD
     A["👤 Paste URL + user issue"] --> B["🚀 Playwright pops a VISIBLE Chrome window"]
-    B --> C["👀 OBSERVE — DOM text + console/network traps (0 tokens)"]
+    B --> C["👀 OBSERVE — DOM text + console/network traps (Minimal tokens usage)"]
     C --> D["🧠 THINK — Featherless Qwen2.5-7B decides the next action"]
     D --> E["🖱️ ACT — physically clicks / types / navigates"]
     E --> F{"⚖️ Right or wrong?"}
