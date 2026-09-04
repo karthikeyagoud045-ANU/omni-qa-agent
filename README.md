@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/demo.gif" width="850" alt="OmniQA Autonomous QA Demo" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <img src="docs/screenshot-dashboard.png" width="900" alt="OmniQA Autonomous QA Dashboard" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
 ---
@@ -211,10 +211,10 @@ Visit **`http://localhost:5173`** to begin your first autonomous QA audit!
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshot-login.png" width="48%" alt="OmniQA Login Page" style="border-radius: 6px;" />
-  <img src="docs/screenshot-dashboard.png" width="48%" alt="OmniQA Dashboard" style="border-radius: 6px;" />
+  <img src="docs/screenshot-dashboard.png" width="90%" alt="OmniQA Dashboard and Live Activity" style="border-radius: 8px; border: 1px solid #1e293b;" />
 </p>
 
+---
 
 
 ## 🗺️ Roadmap
